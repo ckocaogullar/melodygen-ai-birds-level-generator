@@ -5,13 +5,13 @@ This program is an algorithmic game level generator that uses using music theory
 Different iterations of this project was awarded the following prizes:
 
 **IEEE Conference on Games, Osaka, Japan (Aug 2020)**\
-*Angry Birds Artificial Intelligence Competition, 1st Prize recipient in Procedural Level Generation Category*
+>>*Angry Birds Artificial Intelligence Competition, 1st Prize recipient in Procedural Level Generation Category*
   
 **IEEE Conference on Games, London, UK (Aug 2019)**\
-*Angry Birds Artificial Intelligence Competition, 1st Prize recipient in Procedural Level Generation Category*
+>>*Angry Birds Artificial Intelligence Competition, 1st Prize recipient in Procedural Level Generation Category*
   
 **IEEE Conference on CIG, Maastricht, The Netherlands (Aug 2018)**\
-*Angry Birds Artificial Intelligence Competition, 2nd Prize recipient in Procedural Level Generation Category*
+>>*Angry Birds Artificial Intelligence Competition, 2nd Prize recipient in Procedural Level Generation Category*
 
 
 ## Overview
